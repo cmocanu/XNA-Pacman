@@ -1,0 +1,1 @@
+D:\Info\C#\XNA\Pacman\Pacman\PacmanContent\obj\x86\Debug\ResolveAssemblyReference.cache

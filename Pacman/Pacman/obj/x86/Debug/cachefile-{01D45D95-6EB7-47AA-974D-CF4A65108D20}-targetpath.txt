@@ -1,0 +1,10 @@
+Content\Tiles\Empty.xnb
+Content\Tiles\Wall.xnb
+Content\Sprites\pacman0.xnb
+Content\Sprites\pacman1.xnb
+Content\Sprites\pellet.xnb
+Content\Sprites\ghost0.xnb
+Content\Sprites\ghost1.xnb
+Content\Overlays\loseOverlay.xnb
+Content\Overlays\winOverlay.xnb
+Content\SpriteFont1.xnb
