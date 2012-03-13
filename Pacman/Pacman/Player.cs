@@ -23,7 +23,7 @@ namespace Pacman
 
     class Player
     {
-        // Current texture
+        // Current texture 
         Texture2D texture;
 
         // Closed mouth pacman

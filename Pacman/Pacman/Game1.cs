@@ -26,7 +26,7 @@ namespace Pacman
         private Texture2D winOverlay;
         private Texture2D loseOverlay;
 
-        // Game state
+        // Game state 
         Level level;
         int levelIndex = -1;
         const int numberOfLevels = 2;
